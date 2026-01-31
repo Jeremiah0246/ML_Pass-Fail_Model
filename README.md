@@ -63,16 +63,6 @@ This shows how well the model predicts student performance.
 
 ---
 
-## 📁 Project Structure
-student-passfail-ml/
-│
-├── data/
-│ └── student_ml_data.csv
-│
-├── notebook/
-│ └── student_ml_model.ipynb
-│
-└── README.md
 
 ## 🎯 Purpose
 
